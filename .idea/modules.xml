@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dwl.iml" filepath="$PROJECT_DIR$/dwl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/resources/contracts/com/example/dwl/1.0.0/client/dwl-contracts.iml" filepath="$PROJECT_DIR$/src/main/resources/contracts/com/example/dwl/1.0.0/client/dwl-contracts.iml" />
+    </modules>
+  </component>
+</project>
